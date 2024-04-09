@@ -1,8 +1,8 @@
-#Chalé hotel.
+# Chalé hotel.
 
-##Tecnologias.
--HTLM 5
-CSS 3
+## Tecnologias.
+- HTLM 5
+- CSS 3
 
-##Deploy
+## Deploy
 https://1joaovctr.github.io/Chale-hotel/
